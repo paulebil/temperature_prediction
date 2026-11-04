@@ -45,6 +45,7 @@ Open `temperature_prediction_notebook.ipynb` in Jupyter or Visual Studio Code, s
 - The difference table and estimates for the missing days
 - Validation examples, input checks, and unit tests
 - Accuracy and sensitivity analysis, discussion, and plots
+- A reproducible simulated-week experiment with known truth, seeded measurement noise, error metrics, and plots
 
 The notebook includes its example data and implementation; no separate dataset or command-line script is required.
 
